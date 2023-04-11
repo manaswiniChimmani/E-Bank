@@ -1,0 +1,36 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.logo {
+  width: 43px;
+  margin-left: 20px;
+}
+.btn {
+  background-color: transparent;
+  border: 1px solid #f8fafc;
+  padding: 5px;
+  color: #f8fafc;
+  margin-right: 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-img {
+  width: 320px;
+}
+.h1 {
+  color: #ffffff;
+  font-size: 32px;
+}
